@@ -1,3 +1,4 @@
+% AUTHOR Pradeep kumar yaadav
 fs = 1000;
 t = 0:1/fs:7.559-1/fs;
 x=VarName3';
